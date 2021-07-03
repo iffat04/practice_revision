@@ -2,4 +2,22 @@
     font-size: 18px;
     color: rgb(17, 6, 110);
     background-color: chartreuse;
+    width:300px;
+}
+
+.host{
+
+    font-size: 18px;
+    background-color: rgb(197, 184, 243);
+    width:300px;
+}
+
+h1{
+    text-align: center;
+}
+
+.div_list{
+    
+    margin: 80px auto;
+    width:300px;
 }
